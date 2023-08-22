@@ -1,6 +1,0 @@
-
-{{#user}}
-Name: Isha
-Skills: Java, Selenium, Rest Assured, Postman
-Email: ishakeshri330@gmail.com
-{{/user}}
